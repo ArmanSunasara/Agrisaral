@@ -271,7 +271,7 @@ npm run dev       # Start with nodemon (development)
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/ArmanSunasara)
+- **Arman Sunasara** - *Initial work* - [YourGitHub](https://github.com/ArmanSunasara)
 
 ## 🙏 Acknowledgments
 
