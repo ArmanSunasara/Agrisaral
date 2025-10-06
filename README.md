@@ -267,13 +267,11 @@ npm run dev       # Start with nodemon (development)
 - Test your changes thoroughly
 - Update documentation if needed
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/ArmanSunasara)
 
 ## 🙏 Acknowledgments
 
@@ -282,12 +280,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React and Node.js communities
 - All farmers who inspire this project
 
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Contact us at: support@agrisaral.com
-- Join our community Discord: [link]
 
 ## 🔄 Changelog
 
