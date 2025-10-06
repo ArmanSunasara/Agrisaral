@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom animation / scrollbar / hover effects */
+body {
+  @apply bg-green-50 text-gray-800 font-sans;
+}
