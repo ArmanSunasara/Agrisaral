@@ -1,10 +1,25 @@
 const express = require("express");
-const app = express();
+// For security
+//{
 const cors = require("cors");
 const helmet = require("helmet");
 const rateLimit = require("express-rate-limit");
-require("dotenv").config();
+
+//}
+// For logging Records
 const morgan = require("morgan");
+
+
+// *****************************************************************************
+// ************************** Middleware **************************
+// *****************************************************************************
+
+// For environment variables
+require("dotenv").config();
+const app = express();
+
+
+
 
 // Logging early
 app.use(morgan("dev"));
